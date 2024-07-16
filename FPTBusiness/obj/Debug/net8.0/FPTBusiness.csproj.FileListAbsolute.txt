@@ -1,0 +1,15 @@
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\bin\Debug\net8.0\appsettings.json
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\bin\Debug\net8.0\FPTBusiness.deps.json
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\bin\Debug\net8.0\FPTBusiness.runtimeconfig.json
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\bin\Debug\net8.0\FPTBusiness.dll
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\bin\Debug\net8.0\FPTBusiness.pdb
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\FPTBusiness.csproj.AssemblyReference.cache
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\FPTBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\FPTBusiness.AssemblyInfoInputs.cache
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\FPTBusiness.AssemblyInfo.cs
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\FPTBusiness.csproj.CoreCompileInputs.cache
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\FPTBusiness.dll
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\refint\FPTBusiness.dll
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\FPTBusiness.pdb
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\FPTBusiness.genruntimeconfig.cache
+C:\Users\MINH TUAN\Downloads\PRN212_PE_SU24\FPTBusiness\obj\Debug\net8.0\ref\FPTBusiness.dll

@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF21D9-B7AD-4E3E-A893-88F0060797EA}|DataLayerAccess\\DataLayerAccess.csproj|c:\\users\\minh tuan\\downloads\\prn212_pe_su24\\datalayeraccess\\gradedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BF21D9-B7AD-4E3E-A893-88F0060797EA}|DataLayerAccess\\DataLayerAccess.csproj|solutionrelative:datalayeraccess\\gradedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5379ED-FDF2-411A-A3E1-B75634717E9F}|FPTSchoolWPFApp\\FPTSchoolWPFApp.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptschoolwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5379ED-FDF2-411A-A3E1-B75634717E9F}|FPTSchoolWPFApp\\FPTSchoolWPFApp.csproj|solutionrelative:fptschoolwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5379ED-FDF2-411A-A3E1-B75634717E9F}|FPTSchoolWPFApp\\FPTSchoolWPFApp.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptschoolwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E5379ED-FDF2-411A-A3E1-B75634717E9F}|FPTSchoolWPFApp\\FPTSchoolWPFApp.csproj|solutionrelative:fptschoolwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\repositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|solutionrelative:repositories\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptbusiness\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|solutionrelative:fptbusiness\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptbusiness\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|solutionrelative:fptbusiness\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptbusiness\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|solutionrelative:fptbusiness\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptbusiness\\migrations\\20240714103601_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|solutionrelative:fptbusiness\\migrations\\20240714103601_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptbusiness\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|solutionrelative:fptbusiness\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|solutionrelative:repositories\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\repositories\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|solutionrelative:repositories\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|solutionrelative:repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF21D9-B7AD-4E3E-A893-88F0060797EA}|DataLayerAccess\\DataLayerAccess.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\datalayeraccess\\subjectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BF21D9-B7AD-4E3E-A893-88F0060797EA}|DataLayerAccess\\DataLayerAccess.csproj|solutionrelative:datalayeraccess\\subjectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3280B24D-D9A6-4430-B274-51BC23F5B931}|Repositories\\Repositories.csproj|solutionrelative:repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF21D9-B7AD-4E3E-A893-88F0060797EA}|DataLayerAccess\\DataLayerAccess.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\datalayeraccess\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BF21D9-B7AD-4E3E-A893-88F0060797EA}|DataLayerAccess\\DataLayerAccess.csproj|solutionrelative:datalayeraccess\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptbusiness\\mystudentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|solutionrelative:fptbusiness\\mystudentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF21D9-B7AD-4E3E-A893-88F0060797EA}|DataLayerAccess\\DataLayerAccess.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\datalayeraccess\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BF21D9-B7AD-4E3E-A893-88F0060797EA}|DataLayerAccess\\DataLayerAccess.csproj|solutionrelative:datalayeraccess\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\fptbusiness\\migrations\\20240714103601_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067CF29F-3157-4609-AF71-F69CF9FEF995}|FPTBusiness\\FPTBusiness.csproj|solutionrelative:fptbusiness\\migrations\\20240714103601_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240714103601_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Migrations\\20240714103601_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "FPTBusiness\\Migrations\\20240714103601_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Migrations\\20240714103601_Initial.Designer.cs",
+              "RelativeToolTip": "FPTBusiness\\Migrations\\20240714103601_Initial.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:43:49.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTSchoolWPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FPTSchoolWPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTSchoolWPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "FPTSchoolWPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-14T10:43:09.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTSchoolWPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FPTSchoolWPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTSchoolWPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FPTSchoolWPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFcBAAAAAAAAAAAAAHIBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:43:09.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\SubjectRepository.cs",
+              "RelativeToolTip": "Repositories\\SubjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:42:25.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\ISubjectRepository.cs",
+              "RelativeToolTip": "Repositories\\ISubjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:42:06.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:41:45.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:41:27.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\IGradeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGradeRepository.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\IGradeRepository.cs",
+              "RelativeToolTip": "Repositories\\IGradeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:41:09.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\GradeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GradeRepository.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\Repositories\\GradeRepository.cs",
+              "RelativeToolTip": "Repositories\\GradeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:40:29.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubjectDAO.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\DataLayerAccess\\SubjectDAO.cs",
+              "RelativeDocumentMoniker": "DataLayerAccess\\SubjectDAO.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\DataLayerAccess\\SubjectDAO.cs",
+              "RelativeToolTip": "DataLayerAccess\\SubjectDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:39:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentDAO.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\DataLayerAccess\\StudentDAO.cs",
+              "RelativeDocumentMoniker": "DataLayerAccess\\StudentDAO.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\DataLayerAccess\\StudentDAO.cs",
+              "RelativeToolTip": "DataLayerAccess\\StudentDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:39:34.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SingletonBase.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\DataLayerAccess\\SingletonBase.cs",
+              "RelativeDocumentMoniker": "DataLayerAccess\\SingletonBase.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\DataLayerAccess\\SingletonBase.cs",
+              "RelativeToolTip": "DataLayerAccess\\SingletonBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:38:49.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\DataLayerAccess\\GradeDAO.cs",
+              "RelativeDocumentMoniker": "DataLayerAccess\\GradeDAO.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\DataLayerAccess\\GradeDAO.cs",
+              "RelativeToolTip": "DataLayerAccess\\GradeDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:37:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240714103601_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Migrations\\20240714103601_Initial.cs",
+              "RelativeDocumentMoniker": "FPTBusiness\\Migrations\\20240714103601_Initial.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Migrations\\20240714103601_Initial.cs",
+              "RelativeToolTip": "FPTBusiness\\Migrations\\20240714103601_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:36:30.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\appsettings.json",
+              "RelativeDocumentMoniker": "FPTBusiness\\appsettings.json",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\appsettings.json",
+              "RelativeToolTip": "FPTBusiness\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T10:25:05.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyStudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\MyStudentDbContext.cs",
+              "RelativeDocumentMoniker": "FPTBusiness\\MyStudentDbContext.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\MyStudentDbContext.cs",
+              "RelativeToolTip": "FPTBusiness\\MyStudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:21:43.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Subject.cs",
+              "RelativeDocumentMoniker": "FPTBusiness\\Subject.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Subject.cs",
+              "RelativeToolTip": "FPTBusiness\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:21:23.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Student.cs",
+              "RelativeDocumentMoniker": "FPTBusiness\\Student.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Student.cs",
+              "RelativeToolTip": "FPTBusiness\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:20:57.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Grade.cs",
+              "RelativeDocumentMoniker": "FPTBusiness\\Grade.cs",
+              "ToolTip": "C:\\Users\\MINH TUAN\\Downloads\\PRN212_PE_SU24\\FPTBusiness\\Grade.cs",
+              "RelativeToolTip": "FPTBusiness\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:19:25.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
